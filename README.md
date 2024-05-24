@@ -1,6 +1,6 @@
 # Blockchain and DApps
 
-![Blockchain Logo](https://www.example.com/blockchain-logo.png)
+![Blockchain Logo]([https://www.example.com/blockchain-logo.png](https://www.logo.wine/a/logo/Ethereum/Ethereum-Logo.wine.svg))
 
 ## Overview
 
@@ -23,7 +23,7 @@ Welcome to the Blockchain and Decentralized Applications (DApps) repository! Thi
 
 Blockchain is a decentralized, distributed ledger technology that records transactions in a secure and immutable way. Here is a visual representation of a blockchain:
 
-![Blockchain Diagram](https://www.example.com/blockchain-diagram.png)
+![Blockchain Diagram]([https://www.example.com/blockchain-diagram.png](https://coincodecap.com/wp-content/uploads/2021/08/image2.png))
 
 ### Key Concepts
 
@@ -36,7 +36,7 @@ Blockchain is a decentralized, distributed ledger technology that records transa
 
 Decentralized Applications (DApps) are applications that run on a blockchain network rather than a centralized server. Here is an illustration of how DApps work:
 
-![DApps Diagram](https://www.example.com/dapps-diagram.png)
+![DApps Diagram]([https://www.example.com/dapps-diagram.png](https://imgs.search.brave.com/ytP05YNwpXWWgmUY2uWwQ1FjivaFcIMP9Lycd8WlbAA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2LzI2Lzk0LzY4/LzM2MF9GXzYyNjk0/Njg3M180SXZkR0Zy/WHBTeGowZ0JiQTNi/cTJZNnp3eVBvbElz/Ui5qcGc))
 
 ### Characteristics of DApps
 
